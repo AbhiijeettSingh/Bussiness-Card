@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.info{
+    width: 247px;
+    margin: 0 auto;
+    color: #DCDCDC;
+}
+
+h2{
+    margin: 0.5rem 0;
+}

@@ -1,0 +1,31 @@
+.Hero{
+    width: 317px; 
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.email img{
+    width: 20px;
+    margin-right: 10px;
+}
+.email button {
+    display: flex;
+    justify-content: center;
+    width: 247px;
+    height: 2.5rem;
+    align-items: center;
+    border-radius: 5px;
+    margin: 1rem;
+}
+.image{
+    width: 100%;
+}
+.name{
+    color: white;
+    font-size: 1.2rem;
+    margin-top: 1rem;
+}
+.profession{
+    color: #F3BF99;
+}
